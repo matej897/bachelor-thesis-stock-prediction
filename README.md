@@ -1,3 +1,3 @@
 # Machine Learning for Stock Index Predictions
-Code and text for my bachelor thesis on Machine Learning for Stock Index Predictions.
-The model outperformed the S&P 500 by 12.8% on the test set (Nov 2021–Jan 2024).
+This repository contains the code and written text of my bachelor thesis: Machine Learning for Stock Index Predictions.
+On the test dataset (November 23, 2021 – January 24, 2024), the model outperformed the S&P 500 index by 12.8%.
